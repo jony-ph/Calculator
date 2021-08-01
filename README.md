@@ -1,2 +1,2 @@
-# Calculator
+# Calculator :computer:
 A basic calculator.
