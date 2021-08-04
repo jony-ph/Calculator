@@ -1,2 +1,2 @@
 # Calculator :computer:
-A basic calculator.
+Calculator, exchange rate and converter.
